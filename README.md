@@ -1,3 +1,3 @@
-# TTv-discordBot
+# zz2-discordBot
 
-A discord bot which will notify you when OWO is online
+因為我們主播都不發通知，所以我們自己來
